@@ -21,7 +21,6 @@ section{
   width: 70%;
   float: left;
   font-family: Arial, Helvetica, sans-serif;
-
 }
 
 footer{
@@ -34,8 +33,17 @@ footer{
 
 h1{
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+h2{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+h3{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;  
 }
 
 p{
@@ -80,8 +88,7 @@ nav li a:hover:not(.active){
    background: #c852e6;
  }
 
- img{
-    
+ img{ 
    margin: 5px;
    height: 100px;
    width: 100px;
