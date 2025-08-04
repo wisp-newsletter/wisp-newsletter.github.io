@@ -98,7 +98,7 @@ nav li a:hover:not(.active){
    margin: 5px;
  }
 
-div{
+.aboutwisp{
   background-image: url("jwstcosmiccliffs.png");
   opacity: 0.5;
   height: 600px;
