@@ -102,6 +102,7 @@ nav li a:hover:not(.active){
   background-image: url("jwstcosmiccliffs.png");
   opacity: 0.5;
   height: 600px;
+  padding-top: 250px;
 }
 
 a:link {
