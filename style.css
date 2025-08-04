@@ -101,3 +101,21 @@ nav li a:hover:not(.active){
 div{
   background-color: #bda6de
 }
+
+a:link {
+  color:#c7a9dd;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c84fe5;
+  background-color: transparent;
+  text-decoration: underline;
+}
