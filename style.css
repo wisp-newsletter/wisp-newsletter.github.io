@@ -104,6 +104,7 @@ nav li a:hover:not(.active){
   height: 600px;
   padding-top: 250px;
   background-repeat: no-repeat;
+  color: #ffffff;
 }
 
 a:link {
