@@ -102,8 +102,7 @@ nav li a:hover:not(.active){
  }
 
 .aboutwisp{
-  background-image: url("jwstcosmiccliffs.png");
-  opacity: 0.5;
+  background-image: url("jwstcliffs.jpeg");
   height: 600px;
   padding-top: 250px;
   background-repeat: no-repeat;
@@ -111,7 +110,7 @@ nav li a:hover:not(.active){
 }
 
 .aboutus{
-  background-image: url('phantom.jpg");
+  background-image: url("jwstphantom.jpeg");
   height: 500px;
   padding-top: 150px;
   background-repeat: no-repeat;
