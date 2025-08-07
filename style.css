@@ -110,6 +110,9 @@ nav li a:hover:not(.active){
   color: #ffffff;
 }
 
+.aboutus{
+  background-image: url('jwstphantom.jpg");
+}
 a:link {
   color:#ffffff;
   background-color: transparent;
