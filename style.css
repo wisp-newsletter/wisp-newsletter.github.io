@@ -103,7 +103,7 @@ nav li a:hover:not(.active){
 
 .aboutwisp{
   background-image: url("jwstcliffs.jpeg");
-  height: 600px;
+  height: 90%;
   padding-top: 250px;
   background-repeat: no-repeat;
   color: #ffffff;
@@ -111,7 +111,7 @@ nav li a:hover:not(.active){
 
 .aboutus{
   background-image: url("jwstphantom.jpeg");
-  height: 500px;
+  height: 80%;
   padding-top: 150px;
   background-repeat: no-repeat;
   color: #ffffff;
