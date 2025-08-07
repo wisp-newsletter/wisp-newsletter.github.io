@@ -105,6 +105,7 @@ nav li a:hover:not(.active){
   background-image: url("jwstcliffs.jpeg");
   height: 750px;
   padding-top: 250px;
+  padding-bottom:250px;
   background-repeat: no-repeat;
   color: #ffffff;
 }
