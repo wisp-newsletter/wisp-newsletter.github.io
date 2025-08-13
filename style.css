@@ -135,3 +135,15 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.ellieestherbutton{
+  background-color: #ead4fa;
+  border: 2px solid #7327ad;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
