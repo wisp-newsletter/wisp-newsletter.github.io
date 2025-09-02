@@ -1,8 +1,8 @@
 body{
-  background-color:#ead4fa;
+  background-image: url("jwstcliffs.jpeg");
   background-attachment: fixed;
   background-size: cover;
-   font-family: "Rubik", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 header{
